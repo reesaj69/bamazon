@@ -6,3 +6,4 @@ I created a BamazonCustomer.js that receives orders from customers via the comma
 
 See Gif file below:
 
+<a href="https://imgflip.com/gif/257qjh"><img src="https://i.imgflip.com/257qjh.gif" title="made at imgflip.com"/></a>
