@@ -55,6 +55,8 @@ I created a BamazonCustomer.js that receives orders from customers via the comma
  
  TOTAL AMOUNT AFTER DEDUCTING 50
  
+ <img width="410" alt="9th image" src="https://user-images.githubusercontent.com/30795207/36823303-8a199dfc-1cca-11e8-94e5-16784c7dba48.png">
+ 
  
  
  
