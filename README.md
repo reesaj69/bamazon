@@ -39,7 +39,22 @@ I created a BamazonCustomer.js that receives orders from customers via the comma
  
     * If not, the app should log a phrase like "insufficient quantity" and then prevent the order from going through.
 
+<img width="766" alt="6th image" src="https://user-images.githubusercontent.com/30795207/36823200-e0dcb788-1cc9-11e8-85c9-261ed19a7bfd.png">
 
+ 8.  However, if your store does have enough of the product, you should fulfill the customer's order.
+    * This means updating the SQL database to reflect the remaining quantity.
+    * Once the update goes through, show the customer the total cost of their purchase.
+
+ <img width="636" alt="5th image" src="https://user-images.githubusercontent.com/30795207/36823084-580f0f50-1cc9-11e8-9c87-4897b4ba3c33.png">
+ 
+ UPDATING MYSQL - DATABASE
+ 
+ STARTING AMOUNT
+ 
+ 
+ TOTAL AMOUNT AFTER DEDUCTING 50
+ 
+ 
  
  
 
