@@ -20,5 +20,11 @@ I created a BamazonCustomer.js that receives orders from customers via the comma
      * department_name
      * price (cost to customer)
      * stock_quantity (how much of the product is available in the store)
+
+<img width="616" alt="3rd image" src="https://user-images.githubusercontent.com/30795207/36822883-6cba0bf4-1cc8-11e8-968d-f28d9f314cc4.png">
+
+ 4.  Populate this database with around 10 different products (i.e. Insert "mock" data rows into this database and table).
+ 
+ 
  
  
