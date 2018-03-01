@@ -35,6 +35,12 @@ I created a BamazonCustomer.js that receives orders from customers via the comma
 
  7.	Once the customer has placed the order, your application should check if your store has enough of the product to meet the customer's request.
  
+ <img width="636" alt="5th image" src="https://user-images.githubusercontent.com/30795207/36823084-580f0f50-1cc9-11e8-9c87-4897b4ba3c33.png">
+ 
+    * If not, the app should log a phrase like "insufficient quantity" and then prevent the order from going through.
+
+
+ 
  
 
  
