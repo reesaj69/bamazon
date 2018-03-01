@@ -51,6 +51,7 @@ I created a BamazonCustomer.js that receives orders from customers via the comma
  
  STARTING AMOUNT
  
+ <img width="464" alt="8th image" src="https://user-images.githubusercontent.com/30795207/36823283-6512cbb4-1cca-11e8-9f45-8e2cc7ca1f8a.png"> 
  
  TOTAL AMOUNT AFTER DEDUCTING 50
  
